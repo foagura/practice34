@@ -14,7 +14,7 @@ class Sub extends Super {
     }
 
     public void printS() {
-        System.out.println("このメソッドはSubC独自のメソッドです");
+        System.out.println("このメソッドはSub独自のメソッドです");
     }
 }
 
